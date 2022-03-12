@@ -1,0 +1,1 @@
+(()=>{"use strict";var e;!function(e){e.name="jerry"}(e||(e={})),console.log(e.name)})();
